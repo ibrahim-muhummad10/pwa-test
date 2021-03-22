@@ -1,0 +1,29 @@
+{
+    "name": "Diagnostics",
+    "short_name": "Diagnostics",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+     
+      {
+        "src": "../img/android-lollipop-icons-chrome-google-logo-png-clipart.jpg",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "../img/chrome_logo512_PNG22.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "../img/chrome_logo512_PNG22.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+    
+  }
